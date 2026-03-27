@@ -14,7 +14,9 @@ O aplicativo pode ser executado pelo emulador (via comando flutter run) ou insta
 Com o servidor Python já rodando, abra o app no celular ou emulador e digite o Endereço IP do seu computador e a Porta (8080) nos campos indicados. 
 Clique em "ENVIAR STATUS AGORA" para capturar os dados de bateria e GPS e transmiti-los ao servidor, conforme mostrado nas imagens abaixo:
 
-![photo_5060185852763376542_y](https://github.com/user-attachments/assets/d9e94d94-cab1-4e58-bf63-014e52d6abcb)
+![photo_5060185852763376547_y](https://github.com/user-attachments/assets/42f3ddf2-cb90-43e6-8a45-6c5286376709)
 
-![photo_5060185852763376542_y](https://github.com/user-attachments/assets/86773241-2709-46ec-a2f9-34fa7e62388c)
+![photo_5060185852763376546_y](https://github.com/user-attachments/assets/03c7eeb8-15c2-4601-b6dc-0d9df096eb25)
+
+
 
